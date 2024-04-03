@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FelixKabethi\\source\\repos\\IdentityDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A332B17-2879-4145-9962-90B27EFA3834}|IdentityDemo\\IdentityDemo.csproj|c:\\users\\felixkabethi\\source\\repos\\identitydemo\\identitydemo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A332B17-2879-4145-9962-90B27EFA3834}|IdentityDemo\\IdentityDemo.csproj|solutionrelative:identitydemo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A332B17-2879-4145-9962-90B27EFA3834}|IdentityDemo\\IdentityDemo.csproj|c:\\users\\felixkabethi\\source\\repos\\identitydemo\\identitydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A332B17-2879-4145-9962-90B27EFA3834}|IdentityDemo\\IdentityDemo.csproj|solutionrelative:identitydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A332B17-2879-4145-9962-90B27EFA3834}|IdentityDemo\\IdentityDemo.csproj|c:\\users\\felixkabethi\\source\\repos\\identitydemo\\identitydemo\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A332B17-2879-4145-9962-90B27EFA3834}|IdentityDemo\\IdentityDemo.csproj|solutionrelative:identitydemo\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A332B17-2879-4145-9962-90B27EFA3834}|IdentityDemo\\IdentityDemo.csproj|c:\\users\\felixkabethi\\source\\repos\\identitydemo\\identitydemo\\services\\manageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A332B17-2879-4145-9962-90B27EFA3834}|IdentityDemo\\IdentityDemo.csproj|solutionrelative:identitydemo\\services\\manageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A332B17-2879-4145-9962-90B27EFA3834}|IdentityDemo\\IdentityDemo.csproj|c:\\users\\felixkabethi\\source\\repos\\identitydemo\\identitydemo\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A332B17-2879-4145-9962-90B27EFA3834}|IdentityDemo\\IdentityDemo.csproj|solutionrelative:identitydemo\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A332B17-2879-4145-9962-90B27EFA3834}|IdentityDemo\\IdentityDemo.csproj|c:\\users\\felixkabethi\\source\\repos\\identitydemo\\identitydemo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A332B17-2879-4145-9962-90B27EFA3834}|IdentityDemo\\IdentityDemo.csproj|solutionrelative:identitydemo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A332B17-2879-4145-9962-90B27EFA3834}|IdentityDemo\\IdentityDemo.csproj|c:\\users\\felixkabethi\\source\\repos\\identitydemo\\identitydemo\\migrations\\20240402150100_mymigration-v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A332B17-2879-4145-9962-90B27EFA3834}|IdentityDemo\\IdentityDemo.csproj|solutionrelative:identitydemo\\migrations\\20240402150100_mymigration-v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A332B17-2879-4145-9962-90B27EFA3834}|IdentityDemo\\IdentityDemo.csproj|c:\\users\\felixkabethi\\source\\repos\\identitydemo\\identitydemo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A332B17-2879-4145-9962-90B27EFA3834}|IdentityDemo\\IdentityDemo.csproj|solutionrelative:identitydemo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A332B17-2879-4145-9962-90B27EFA3834}|IdentityDemo\\IdentityDemo.csproj|c:\\users\\felixkabethi\\source\\repos\\identitydemo\\identitydemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A332B17-2879-4145-9962-90B27EFA3834}|IdentityDemo\\IdentityDemo.csproj|solutionrelative:identitydemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageUsers.cs",
+              "DocumentMoniker": "C:\\Users\\FelixKabethi\\source\\repos\\IdentityDemo\\IdentityDemo\\Services\\ManageUsers.cs",
+              "RelativeDocumentMoniker": "IdentityDemo\\Services\\ManageUsers.cs",
+              "ToolTip": "C:\\Users\\FelixKabethi\\source\\repos\\IdentityDemo\\IdentityDemo\\Services\\ManageUsers.cs",
+              "RelativeToolTip": "IdentityDemo\\Services\\ManageUsers.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:53:46.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\FelixKabethi\\source\\repos\\IdentityDemo\\IdentityDemo\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "IdentityDemo\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\FelixKabethi\\source\\repos\\IdentityDemo\\IdentityDemo\\Services\\IAuthService.cs",
+              "RelativeToolTip": "IdentityDemo\\Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:45:13.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\FelixKabethi\\source\\repos\\IdentityDemo\\IdentityDemo\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "IdentityDemo\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\FelixKabethi\\source\\repos\\IdentityDemo\\IdentityDemo\\Controllers\\UserController.cs",
+              "RelativeToolTip": "IdentityDemo\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T17:40:22.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\FelixKabethi\\source\\repos\\IdentityDemo\\IdentityDemo\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "IdentityDemo\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\FelixKabethi\\source\\repos\\IdentityDemo\\IdentityDemo\\WeatherForecast.cs",
+              "RelativeToolTip": "IdentityDemo\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T15:47:28.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240402150100_MyMigration-V2.cs",
+              "DocumentMoniker": "C:\\Users\\FelixKabethi\\source\\repos\\IdentityDemo\\IdentityDemo\\Migrations\\20240402150100_MyMigration-V2.cs",
+              "RelativeDocumentMoniker": "IdentityDemo\\Migrations\\20240402150100_MyMigration-V2.cs",
+              "ToolTip": "C:\\Users\\FelixKabethi\\source\\repos\\IdentityDemo\\IdentityDemo\\Migrations\\20240402150100_MyMigration-V2.cs",
+              "RelativeToolTip": "IdentityDemo\\Migrations\\20240402150100_MyMigration-V2.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T15:01:00.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\FelixKabethi\\source\\repos\\IdentityDemo\\IdentityDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "IdentityDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\FelixKabethi\\source\\repos\\IdentityDemo\\IdentityDemo\\appsettings.json",
+              "RelativeToolTip": "IdentityDemo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-02T14:19:14.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\FelixKabethi\\source\\repos\\IdentityDemo\\IdentityDemo\\Models\\User.cs",
+              "RelativeDocumentMoniker": "IdentityDemo\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\FelixKabethi\\source\\repos\\IdentityDemo\\IdentityDemo\\Models\\User.cs",
+              "RelativeToolTip": "IdentityDemo\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:54:41.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FelixKabethi\\source\\repos\\IdentityDemo\\IdentityDemo\\Program.cs",
+              "RelativeDocumentMoniker": "IdentityDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\FelixKabethi\\source\\repos\\IdentityDemo\\IdentityDemo\\Program.cs",
+              "RelativeToolTip": "IdentityDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:48:26.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\FelixKabethi\\source\\repos\\IdentityDemo\\IdentityDemo\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "IdentityDemo\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\FelixKabethi\\source\\repos\\IdentityDemo\\IdentityDemo\\ApplicationDbContext.cs",
+              "RelativeToolTip": "IdentityDemo\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:39:04.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
